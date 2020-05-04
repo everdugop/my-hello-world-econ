@@ -1,6 +1,6 @@
 clear all
 * Write down the directory below
-cd "/Users/heitorpellegrina/Dropbox/my-hello-world-econ/analysis/code"
+cd "C:\Users\everd\Dropbox\my-hello-world-econ\analysis\code"
 
 program main
 	clean_data
